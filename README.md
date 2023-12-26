@@ -26,4 +26,4 @@ Allow users to submit their own quotes.
 
 Feedback
 
-For suggestions and feedback, please feel free to contact me at <a href="https://www.efekurucay.com/" style="color: #00b006;">MyWebsite</a>.
+For suggestions and feedback, please feel free to contact me at <a href="https://www.efekurucay.com/" style="color: #00b006;">my website</a>.
