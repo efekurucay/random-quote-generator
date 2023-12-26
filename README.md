@@ -24,6 +24,6 @@ Future improvements:
 Add a button to allow users to generate a new quote without refreshing the page.
 Allow users to submit their own quotes.
 
-[Feedback](https://www.efekurucay.com/)
+Feedback
 
-For suggestions and feedback, please feel free to contact me at <a href="https://www.efekurucay.com/" style="color: #ff5733;">MyWebsite</a>.
+For suggestions and feedback, please feel free to contact me at <a href="https://www.efekurucay.com/" style=color: #00b006;>MyWebsite</a>.
